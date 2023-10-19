@@ -3,10 +3,12 @@ import "./style.scss"
 import Cast from "../details/cast/Cast"
 import DetailsBanner from './detailBanner/DetailsBanner'
 import { useParams } from 'react-router-dom';
-import useFetch from '../../hooks/useFetch';
+
 import VideosSection from './videosSection/VideosSections';
 import Similar from './carousels/Similar';
 import Recommendation from './carousels/Recommendation';
+import useFetch from '../../Hooks/UseFetch';
+
 
 
 function Details() {
