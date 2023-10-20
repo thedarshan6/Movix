@@ -3,7 +3,7 @@ import ContentWrapper from '../../../components/contentWrapper/ContentWrapper'
 import SwitchTabs from '../../../components/switchTabs/SwitchTabs'
 
 import Carosuel from '../../../components/carousel/Carosuel';
-import useFetch from '../../../Hooks/UseFetch';
+import useFetch from '../../../Hooks/useFetch';
 
 
 const TopRated = () => {

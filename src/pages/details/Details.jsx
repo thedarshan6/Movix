@@ -7,7 +7,7 @@ import { useParams } from 'react-router-dom';
 import VideosSection from './videosSection/VideosSections';
 import Similar from './carousels/Similar';
 import Recommendation from './carousels/Recommendation';
-import useFetch from '../../Hooks/UseFetch';
+import useFetch from '../../Hooks/useFetch';
 
 
 
