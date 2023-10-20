@@ -4,7 +4,7 @@ import { fetchDataApi } from "./utils/api"
 import { useSelector, useDispatch } from "react-redux";
 import { getApiConfiguration, getGenres } from "./store/homeSlice";
 import Header from "./components/headers/Header";
-import Footers from "./components/footer/Footers";
+import Footers from "./components/footer/footers";
 import Home from "./pages/home/Home";
 import Details from "./pages/details/Details";
 import SearchResult from "./pages/searchResult/SearchResult";
